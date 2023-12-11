@@ -1,2 +1,2 @@
 # VITAL
-A machine learning  
+A machine learning project for predicting dengue shock syndrome.
